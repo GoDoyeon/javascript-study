@@ -17,6 +17,9 @@
 - 스터디 당일 자신이 맡은 파트의 중요한 부분을 설명하고 질의응답.
 - 스터디 당일 부족했던 설명, 막혔던 문제들은 차주 금요일까지 README.md에 다시 업데이트한다.
 
+## ✔️ 스터디 질문 모음
+https://github.com/seyoungjoy/javascript-study/issues
+
 ## ✔️ 스터디 진행 상황
 
 ### 1주차
